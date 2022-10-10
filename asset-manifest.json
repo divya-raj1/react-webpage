@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-webpage/static/css/main.abb7da16.css",
+    "main.js": "/react-webpage/static/js/main.a694a768.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/react-webpage/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/pngwing1.png": "/react-webpage/static/media/pngwing1.dff86679ce5226426420.png",
+    "static/media/Vector7.png": "/react-webpage/static/media/Vector7.9edd21df1f24ec8ac17c.png",
+    "index.html": "/react-webpage/index.html",
+    "static/media/Vector5.svg": "/react-webpage/static/media/Vector5.f81e29138be2f2444520.svg",
+    "static/media/Vector.svg": "/react-webpage/static/media/Vector.35be6c60a12bae8ad314.svg",
+    "static/media/Vector2.svg": "/react-webpage/static/media/Vector2.8c7a5be12fe886724a5d.svg",
+    "static/media/Vector6.svg": "/react-webpage/static/media/Vector6.ef2a1d9a1c8e5db18db0.svg",
+    "static/media/Vector3.svg": "/react-webpage/static/media/Vector3.5a1b8a871b3ecfc24751.svg",
+    "static/media/Vector4.svg": "/react-webpage/static/media/Vector4.22b81af74d90bf517c56.svg",
+    "main.abb7da16.css.map": "/react-webpage/static/css/main.abb7da16.css.map",
+    "main.a694a768.js.map": "/react-webpage/static/js/main.a694a768.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/react-webpage/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abb7da16.css",
+    "static/js/main.a694a768.js"
+  ]
+}
